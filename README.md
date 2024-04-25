@@ -22,7 +22,8 @@ Dependencies
 
 Get ready to test your aiming skills and reflexes with Aim Trainer! Have fun honing your accuracy!
 
-https://github.com/eamonwong/Aim-Trainer/assets/75913022/03d98b88-375b-4633-a656-e6fc18a735b6
+https://github.com/eamonwong/Aim-Trainer/assets/75913022/c7ec7217-49ae-44f9-960d-40472e6dc478
+
 
 
 
